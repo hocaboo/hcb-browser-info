@@ -148,7 +148,7 @@
 			}
 
 			self.name    = browser;
-			self.version = browserVersion;
+			self.version = version;
 
 			// cookies enabled
 			var cookiesEnabled = (win.navigator && win.navigator.cookieEnabled) ? true : false;
